@@ -1,0 +1,17 @@
+
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  footer {
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'futura-pt', sans-serif;
+  }
+  p{
+    font-size: 20px;
+    color: rgba(255,255,255,.5);
+  }

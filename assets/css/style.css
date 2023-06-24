@@ -42,7 +42,7 @@ small, .small {
   color: white;
   text-transform: uppercase;
   letter-spacing: 0.2vw;
-  font-size: .9vw;
+  font-size: .9vh;
   opacity: .5;
   padding-right: 6.5px;
 }
@@ -107,7 +107,7 @@ h2::after {
   text-transform: uppercase;
   letter-spacing: 0.2vw;
   text-indent: .2vw;
-  font-size: 1vw;
+  font-size: 2.5vh;
   opacity: .5;
   padding-right: 4vw;
   padding-left: 4vw;
