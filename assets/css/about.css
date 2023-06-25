@@ -11,7 +11,7 @@
     text-align: center;
     font-family: 'futura-pt', sans-serif;
   }
-  p{
+.container p{
     font-size: 20px;
     color: rgba(255,255,255,.5);
   }
